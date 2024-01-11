@@ -1,7 +1,7 @@
 //Programmer: Logan. T
 //Date: 1.10.2024
 //Program: Sphero Bolt Testing
-//Bolt ID: /
+//Bolt ID: / SB-2FAE
 
 async function startProgram() {
 	await speak("Hello World", true);
