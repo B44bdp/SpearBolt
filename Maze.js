@@ -17,6 +17,13 @@ async function startProgram() {
 	await roll (180, 33, 2.5)
 	await roll(220, 28, 3.6,)
 	setMainLed({ r: 200, g: 0, b: 0 })
+	await roll (850, 22, 2.1)
+	await roll (400, 30, 2.3)
+	await Sound.play()
+	await Sound.play()
+	await Sound.play()
+	
+	
 
 
 
