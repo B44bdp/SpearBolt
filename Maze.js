@@ -22,4 +22,5 @@ async function startProgram() {
 	await Sound.play()
 	await roll(500, 30, 2.5)
 	stopRoll(0)
+
 }
